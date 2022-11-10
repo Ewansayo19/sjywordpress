@@ -1,0 +1,89 @@
+.elementor-386 .elementor-element.elementor-element-b759ff>.elementor-container {
+    max-width: 1600px;
+}
+
+.elementor-386 .elementor-element.elementor-element-b759ff:not(.elementor-motion-effects-element-type-background),
+.elementor-386 .elementor-element.elementor-element-b759ff>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-386 .elementor-element.elementor-element-b759ff {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 16px 0px 16px 0px;
+    z-index: 1;
+}
+
+.elementor-386 .elementor-element.elementor-element-b759ff>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-386 .elementor-element.elementor-element-4dcf0a3>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-386 .elementor-element.elementor-element-4dcf0a3>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-386 .elementor-element.elementor-element-7887872 {
+    --position: absolute;
+    top: 0px;
+}
+
+body:not(.rtl) .elementor-386 .elementor-element.elementor-element-7887872 {
+    left: 0px;
+}
+
+body.rtl .elementor-386 .elementor-element.elementor-element-7887872 {
+    right: 0px;
+}
+
+.elementor-386 .elementor-element.elementor-element-724b190 .elementor-button {
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #FF8A73;
+    border-radius: 5px 5px 5px 5px;
+    padding: 13px 6px 11px 9px;
+}
+
+.elementor-386 .elementor-element.elementor-element-724b190 .elementor-button:hover,
+.elementor-386 .elementor-element.elementor-element-724b190 .elementor-button:focus {
+    color: #FFFFFF;
+}
+
+.elementor-386 .elementor-element.elementor-element-724b190 .elementor-button:hover svg,
+.elementor-386 .elementor-element.elementor-element-724b190 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+body:not(.rtl) .elementor-386 .elementor-element.elementor-element-724b190 {
+    left: 1560px;
+}
+
+body.rtl .elementor-386 .elementor-element.elementor-element-724b190 {
+    right: 1560px;
+}
+
+.elementor-386 .elementor-element.elementor-element-724b190 {
+    top: 819px;
+    z-index: 0;
+}
+
+@media(max-width:1024px) {
+    .elementor-386 .elementor-element.elementor-element-b759ff {
+        z-index: 1;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-386 .elementor-element.elementor-element-b759ff {
+        z-index: 0;
+    }
+}
